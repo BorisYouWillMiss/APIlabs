@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Lc/zwyq9x/Eo5qu1WBRhf056Ar+3gi/0TXS1V2GuxQI=",
+  "Source": "SignalRserver",
+  "BasePath": "_content/SignalRserver",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRserver\\wwwroot",
+      "Source": "SignalRserver",
+      "ContentRoot": "C:\\Users\\Vadim\\source\\repos\\SignalR\\SignalRserver\\SignalRserver\\wwwroot\\",
+      "BasePath": "_content/SignalRserver",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Vadim\\source\\repos\\SignalR\\SignalRserver\\SignalRserver\\wwwroot\\index.html",
+      "SourceId": "SignalRserver",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vadim\\source\\repos\\SignalR\\SignalRserver\\SignalRserver\\wwwroot\\",
+      "BasePath": "_content/SignalRserver",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Vadim\\source\\repos\\SignalR\\SignalRserver\\SignalRserver\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SignalRserver.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SignalRserver.props",
+      "PackagePath": "build\\SignalRserver.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRserver.props",
+      "PackagePath": "buildMultiTargeting\\SignalRserver.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SignalRserver.props",
+      "PackagePath": "buildTransitive\\SignalRserver.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
